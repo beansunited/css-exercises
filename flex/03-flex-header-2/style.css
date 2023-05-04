@@ -6,7 +6,6 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
-  flex: 1;
 }
 
 .header {
@@ -63,7 +62,6 @@ ul {
 
 .right {
   display: flex;
-  justify-content: flex-end;
   align-items: center;
   gap: 16px;
 }
